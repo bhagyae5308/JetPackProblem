@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetPackProblem</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="destination_coach">Destination Index</string>
+    <string name="find">FIND</string>
+    <string name="err_dest_index">Please enter destination index</string>
+    <string name="err_dest_index_in_range">Please enter dstination index within the given range</string>
+    <string name="reset">RESET</string>
+</resources>
