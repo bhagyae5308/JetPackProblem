@@ -9,8 +9,7 @@ Example :
 
 Below is the input of compartments , values in each box is JetPack Thresholds
 
-image.png
-image.png
+2 -> 3 -> 1 -> 1 -> 3
  
 
 The Thesis is hidden in compartment 5
