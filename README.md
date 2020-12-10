@@ -38,13 +38,12 @@ If the difference is greater than 1, the following logic applies:
         then move to the compartment number calculated by adding the current index and current compartment cost
         
         
-  # Overall time complexity will be O(n), where n is the number of compartments
+   Overall time complexity will be O(n), where n is the number of compartments
   # Steps to execute the code:
   1. Clone the project
   2. Open in Android Studio and run either using a emulator or real device
   3. After the launching the App the UI will look like this
-  [Jet-Pack-Problem1.jpg](https://postimg.cc/Ffys6dWB)
-  
+[![Jet-Pack-Problem1.jpg](https://i.postimg.cc/GpN8Hvkd/Jet-Pack-Problem1.jpg)](https://postimg.cc/Ffys6dWB)  
   4. Click on Add to add the compartment cells, each cell will have index number on top and an edit box where the user can enter the cost
   5. Using the delete button, the user can delete one by one from end
    [Jet-Pack-Problem2.jpg](https://postimg.cc/67YFTByQ)
