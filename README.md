@@ -43,14 +43,13 @@ If the difference is greater than 1, the following logic applies:
   1. Clone the project
   2. Open in Android Studio and run either using a emulator or real device
   3. After the launching the App the UI will look like this
-[![Jet-Pack-Problem1.jpg](https://i.postimg.cc/GpN8Hvkd/Jet-Pack-Problem1.jpg)](https://postimg.cc/Ffys6dWB)  
+    [![Jet-Pack-Problem1.jpg](https://i.postimg.cc/GpN8Hvkd/Jet-Pack-Problem1.jpg)](https://postimg.cc/Ffys6dWB)  
   4. Click on Add to add the compartment cells, each cell will have index number on top and an edit box where the user can enter the cost
   5. Using the delete button, the user can delete one by one from end
-   [Jet-Pack-Problem2.jpg](https://postimg.cc/67YFTByQ)
-  6. The destination index edit text will contain the destination compartment index value.
+[![Jet-Pack-Problem2.jpg](https://i.postimg.cc/3RThSRh2/Jet-Pack-Problem2.jpg)](https://postimg.cc/67YFTByQ)
+6. The destination index edit text will contain the destination compartment index value.
   7. Click on Find button to get the minimum number of hops.
   8. Click on reset button to reset the values.
-  [Jet-Pack-Problem3.jpg](https://postimg.cc/G9QzCXTc)
-  
+[![Jet-Pack-Problem3.jpg](https://i.postimg.cc/sDFL58VZ/Jet-Pack-Problem3.jpg)](https://postimg.cc/G9QzCXTc)  
         
    
